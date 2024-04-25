@@ -1,0 +1,14 @@
+tuần 1	Chọn đề tài 13: Phát triển ứng dụng đo nhịp tim và oxy máu đơn giản
+tuần 2  Tìm hiểu về MAX30102, chạy thử
+tuần 3	Test lại tại sao cảm biến không chạy đúng ý
+tuần 4	
+tuần 5	Tìm hiểu cách tạo web và app
+tuần 6	Code web, app
+tuần 7	
+tuần 8	Chạy thử, sửa
+tuần 9	
+tuần 10	
+tuần 11	
+tuần 12	
+tuần 13	viết báo cáo, powerpoint
+tuần 14	
